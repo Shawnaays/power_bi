@@ -9,7 +9,7 @@ analyze through nice looking reports
 
 What I have learned in this project :
 
-* Retrieve data from the many sources 10%
+* Retrieve data from the many sources
 * Apply necessary transformations in Power Query 
 * Design a proper data model 
 * Create any necessary measure that will answer business questions
