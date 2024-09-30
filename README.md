@@ -12,6 +12,6 @@ What I have learned in this project :
 * Retrieve data from the many sources 10%
 * Apply necessary transformations in Power Query 
 * Design a proper data model 
-*Create any necessary measure that will answer business questions
+* Create any necessary measure that will answer business questions
 * Design reports, that provides all the answers the business needs
 
