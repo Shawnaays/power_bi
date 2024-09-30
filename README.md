@@ -5,3 +5,13 @@ are going.
 The data is split across multiple files, and they are unable to make good use of it.
 Your mission is to provide them with a complete solution which will help them
 analyze through nice looking reports
+
+
+What I have learned in this project :
+
+* Retrieve data from the many sources 10%
+* Apply necessary transformations in Power Query 
+* Design a proper data model 
+*Create any necessary measure that will answer business questions
+* Design reports, that provides all the answers the business needs
+
